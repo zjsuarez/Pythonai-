@@ -1,0 +1,4 @@
+id_evento;nombre;fecha;precio;categoria
+e001;Concierto Rock;2025-11-30;75.50;Musica
+e002;Obra Teatro;2025-12-15;40.00;Teatro
+e003;Conferencia Tech;2026-01-20;150.00;Tecnologia
